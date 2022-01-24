@@ -88,3 +88,12 @@ body{
 .col-md-6.border {
     padding: 0;
 }
+.footer-area{
+    background-color:#0B0D17;
+    padding: 50px 0px;
+    
+}
+.footer-area h3{
+font-size: 20px;
+
+}
